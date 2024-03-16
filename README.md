@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SURYA-PRAKASHA-PK
 - 👀 I’m interested in Quantum Computing
-- 🌱 I’m currently Quantum Machine Learning
+- 🌱 I’m currently working on Quantum Machine Projects
 - 💞️ I’m looking to collaborate on projects related to QC
 
 

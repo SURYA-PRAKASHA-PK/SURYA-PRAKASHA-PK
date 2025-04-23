@@ -15,7 +15,7 @@
 - **Data Management Tools**: MySQL, Grafana, Prometheus, Dagster, Alteryx, DuckDB  
 - **BI Tools**: Tableau, Excel
 - **Statistics**: Hypothesis Testing, Probability, Random Variables, CLT, ANOVA, T-Test, Z-Test, VIF, OLS, Ridge, Lasso 
-- **ML/DL **: Pytorch, Tensorflow, Qiskit, Keras, NLTKSpacy 
+- **ML/DL**: Pytorch, Tensorflow, Qiskit, Keras, NLTKSpacy 
 
 ---
 
@@ -30,7 +30,7 @@
 
 ### 📬 Let's Connect!
 
-- 💼 [Email](suryak711236@gmail.com)
+- 💼 suryak711236@gmail.com
 - 🧠 Always up for conversations on data, storytelling through dashboards and ML applications in business.
 
 ---

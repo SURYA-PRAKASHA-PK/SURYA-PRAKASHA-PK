@@ -15,19 +15,18 @@
 ### 🛠️ Skills & Tools
 
 - **Languages**: Python, SQL, C++
-- **ML/DL Frameworks**: PyTorch, TensorFlow, Keras, Scikit-learn
-- **Data Tools**: Pandas, NumPy, Seaborn, Matplotlib, NLTK, SpaCy
+- **ML/DL Frameworks**: PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Seaborn
 - **Statistics**: ANOVA, OLS, Z-Test, T-Test, VIF, Ridge, Lasso, CLT
-- **Data Engineering**: PostgreSQL, Airflow, Spark, Hive, Hadoop, Docker, Prometheus, Grafana, Loki, Promtail
-- **Visualization**: Tableau, Power BI, Excel, Metabase
-- **Workflow Tools**: Git, Codespaces, Dagster
+- **Data Engineering**: PostgreSQL, Airflow, Spark, Hive, Hadoop, Docker, Prometheus, Grafana, Loki, Promtail, Dagster, Airflow DAG, Docker  
+- **Visualization**: Tableau, Power BI, Excel, Metabase, Grafana
+- **Developer Tools**: Git, Codespaces
 
 ---
 
 ### 📈 Featured Projects
 
 - 🔍 [**Log Monitoring with Grafana, Loki, and Prometheus**](https://github.com/SURYA-PRAKASHA-PK/Log-monitoring-with-Grafana-Loki-and-Prometheus)  
-  Built a log aggregation pipeline using Dockerized services; enabled real-time monitoring of app logs with Promtail, Prometheus, and Grafana dashboards.
+  Built a log aggregation pipeline using Dockerized services; enabled real-time monitoring of app logs with Promtail, Loki, Prometheus, and Grafana dashboards.
 
 - 🧠 [**Brain Tumor Detection using ResNet & ResUNet**](https://github.com/SURYA-PRAKASHA-PK/Brain-tumor-detection-using-ResUNet)  
   Deep learning-based system to classify and segment brain tumors in MRI images using ResNet for detection and ResUNet for pixel-level tumor segmentation.
@@ -45,10 +44,10 @@
 
 ### 📬 Let’s Connect
 
-- 📧 Email: suryaprakashapk@gmail.com
-- 🧠 Always up to brainstorm ML use-cases, data workflows, and dashboard storytelling
+- 📧 Email: suryak711236@gmail.com
+- 🧠 Always up to brainstorm ML use-cases, data workflows and dashboard storytelling
 
 ---
 
-⭐ *"Behind every dataset is a decision waiting to be made — I connect the dots."*
+⭐ *"Data doesn’t drive decisions unless it moves — I build the systems that make it flow, fast and clean."*
 

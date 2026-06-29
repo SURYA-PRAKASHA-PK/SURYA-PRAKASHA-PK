@@ -65,9 +65,9 @@
 
 ### 📬 Let's Connect
 
-- 🌐 [Portfolio](#) · [GitHub](https://github.com/SURYA-PRAKASHA-PK)
+- 📧 [suryak711236@gmail.com](mailto:suryak711236@gmail.com)
+- 🐙 [GitHub](https://github.com/SURYA-PRAKASHA-PK)
 - 🧠 Open to collaborating on Agentic AI systems, MLOps architectures, and AI automation tools
-
 ---
 
 > *"Build systems that think, pipelines that adapt, and AI that earns its place in production."*

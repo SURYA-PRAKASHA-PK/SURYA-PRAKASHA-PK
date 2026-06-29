@@ -1,53 +1,73 @@
 <h1 align="center">Hi 👋, I'm Surya Prakasha PK</h1>
-<h3 align="center">Data Science | Data Engineering | Machine Learning</h3>
+<h3 align="center">Agentic AI Developer · MLOps Engineer · Python Backend</h3>
 
 ---
 
-💡 I’m a curious data practitioner, passionate about building **data-driven solutions** that extract value from raw information. With hands-on experience in **SQL**, **Python**, and **machine learning**, I specialize in turning messy data into structured insights.
+💡 I build **intelligent, automated systems** — from multi-agent pipelines to production MLOps stacks. My focus is turning complex, manual workflows into AI-powered systems that are practical, reliable, and built to scale.
 
-🚀 I'm currently upskilling in:
-- Building **end-to-end data pipelines**
-- Applying **statistical and ML models** for business decisions
-- Using **deep learning** for advanced image and text tasks
+🚀 Currently working on:
+- **Agentic AI systems** using LangGraph, MCP, and A2A protocols
+- **End-to-end MLOps pipelines** with real-time monitoring, drift detection, and automated retraining
+- **LLM evaluation frameworks** for production-grade AI reliability
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Technical Skills
 
-- **Languages**: Python, SQL, C++
-- **ML/DL Frameworks**: PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Seaborn
-- **Statistics**: ANOVA, OLS, Z-Test, T-Test, VIF, Ridge, Lasso, CLT
-- **Data Engineering**: PostgreSQL, Airflow, Spark, Hive, Hadoop, Docker, Prometheus, Grafana, Loki, Promtail, Dagster, Airflow DAG, Docker  
-- **Visualization**: Tableau, Power BI, Excel, Metabase, Grafana
-- **Developer Tools**: Git, Codespaces
+- **Programming & Backend**: Python, SQL, C++, FastAPI, Pydantic, SQLAlchemy, Asyncio
+- **Agentic AI**: LangChain, LangGraph, Google ADK, MCP, A2A, RAG, ChromaDB, FAISS
+- **MLOps & LLMOps**: MLflow, Kubeflow, DeepEval, LLMEval, Langfuse, LangSmith
+- **Operations & Monitoring**: Airflow, Kafka, Grafana, Prometheus
+- **ML Libraries**: PyTorch, TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+- **Developer Tools**: Git, GitHub, Docker, OpenShift AI
+
+---
+
+### 🏅 Certifications
+
+- 🟦 **Microsoft Certified**: Agentic AI Business Solutions Architect
+- 🟦 **Microsoft Certified**: Machine Learning Operations Engineer Associate
+- 🔴 **Red Hat**: OpenShift AI Delivery Practitioner – Foundational
 
 ---
 
 ### 📈 Featured Projects
 
-- 🔍 [**Log Monitoring with Grafana, Loki, and Prometheus**](https://github.com/SURYA-PRAKASHA-PK/Log-monitoring-with-Grafana-Loki-and-Prometheus)  
-  Built a log aggregation pipeline using Dockerized services; enabled real-time monitoring of app logs with Promtail, Loki, Prometheus, and Grafana dashboards.
+- 🤖 [**AI Invoice Auditor**](https://github.com/SURYA-PRAKASHA-PK)  
+  `LangGraph · MCP · A2A · RAG · FAISS · FastAPI · Streamlit`  
+  Multi-agent invoice auditing system with Human-in-the-Loop escalation, CrossEncoder reranking, and triad-score quality gating — reducing manual auditing time by up to 80%. Deployed as a Streamlit app with real-time dashboards and a conversational chatbot backed by three independent A2A agent servers.
+
+- 🔧 [**Predictive Maintenance – End-to-End MLOps System**](https://github.com/SURYA-PRAKASHA-PK)  
+  `Python · XGBoost · FastAPI · MLflow · Kafka · Airflow · Evidently AI · Prometheus · Grafana · Docker`  
+  Real-time industrial failure prediction (AUC-ROC: 0.9573) with Kafka-streamed sensor data, automated Airflow retraining on drift detection, champion/challenger model validation, and a six-service Dockerized observability stack.
+
+- 📊 [**Log Monitoring with Grafana, Loki, and Prometheus**](https://github.com/SURYA-PRAKASHA-PK/Log-monitoring-with-Grafana-Loki-and-Prometheus)  
+  `Docker · Promtail · Loki · Prometheus · Grafana`  
+  Log aggregation pipeline with real-time app log monitoring and Grafana dashboards.
 
 - 🧠 [**Brain Tumor Detection using ResNet & ResUNet**](https://github.com/SURYA-PRAKASHA-PK/Brain-tumor-detection-using-ResUNet)  
-  Deep learning-based system to classify and segment brain tumors in MRI images using ResNet for detection and ResUNet for pixel-level tumor segmentation.
+  `PyTorch · ResNet · ResUNet`  
+  Deep learning system for MRI-based tumor classification and pixel-level segmentation.
 
 - 🌦️ [**Weather Data Pipeline with Airflow and Metabase**](https://github.com/SURYA-PRAKASHA-PK/Weather-Data-pipeline-with-Airflow-DAG-postgres-and-Metabase)  
-  Automated data pipeline using Airflow DAG to fetch OpenWeatherMap data, store in PostgreSQL, and visualize trends using Metabase.
+  `Airflow · PostgreSQL · Metabase`  
+  Automated ETL pipeline fetching OpenWeatherMap data for trend visualization.
 
-- 👨‍💼 [**Employee Productivity Analysis using Statistical Methods**](https://github.com/SURYA-PRAKASHA-PK/Employee-Productivity-Analysis-Project)  
-  Applied hypothesis testing (ANOVA, T-Test, Z-Test) to evaluate workplace factors impacting productivity. Delivered visual insights via heatmaps and scatter plots.
+- 👨‍💼 [**Employee Productivity Analysis**](https://github.com/SURYA-PRAKASHA-PK/Employee-Productivity-Analysis-Project)  
+  `Python · ANOVA · T-Test · Z-Test · Seaborn`  
+  Statistical hypothesis testing to identify workplace factors impacting productivity.
 
 - 🏡 [**Advanced Housing Price Prediction**](https://github.com/SURYA-PRAKASHA-PK/Advanced-Housing-Price-Prediction-with-Statistical-Analysis)  
-  Modeled housing prices using OLS, Ridge, Lasso, and ensemble methods; included diagnostics like multicollinearity checks, residuals, and Q-Q plots.
+  `OLS · Ridge · Lasso · Ensemble Methods`  
+  Housing price modeling with multicollinearity diagnostics, residual analysis, and Q-Q plots.
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Let's Connect
 
-- 📧 Email: suryak711236@gmail.com
-- 🧠 Always up to brainstorm ML use-cases, data workflows and dashboard storytelling
+- 🌐 [Portfolio](#) · [GitHub](https://github.com/SURYA-PRAKASHA-PK)
+- 🧠 Open to collaborating on Agentic AI systems, MLOps architectures, and AI automation tools
 
 ---
 
-⭐ *"Data doesn’t drive decisions unless it moves — I build the systems that make it flow, fast and clean."*
-
+> *"Build systems that think, pipelines that adapt, and AI that earns its place in production."*
